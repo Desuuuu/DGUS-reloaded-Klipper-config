@@ -5,11 +5,11 @@ Example configurations for the [DGUS-reloaded-Klipper firmware](https://github.c
 Meant to be used with [this fork of Klipper](https://github.com/Desuuuu/klipper).
 
 ## Configurations
-The following configurations are available in the examples folder:
+The following configurations are available in the base folder:
 
-* [Creality CR-10S Pro](/examples/printer-creality-cr10spro.cfg)
-* [Creality CR-10S Pro V2](/examples/printer-creality-cr10sprov2.cfg)
-* [Ender 5 Plus](/examples/printer-creality-ender5plus.cfg)
+* [Creality CR-10S Pro](/base/creality-cr10spro.cfg)
+* [Creality CR-10S Pro V2](/base/creality-cr10sprov2.cfg)
+* [Ender 5 Plus](/base/creality-ender5plus.cfg)
 
 You can also try these configurations made by the community:
 
